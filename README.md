@@ -6,9 +6,13 @@ Crypto_Clustering.ipynb - imports the crypto market data and utilizes the KMeans
 
 # Libraries
 pandas
+
 hvplot
+
 KMeans
+
 PCA
+
 StandardScaler
 
 
